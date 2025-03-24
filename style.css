@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #1B63A6, #FFFFFF, #000000);
 }
 .login-form{
     display: flex;
